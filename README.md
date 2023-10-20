@@ -1,2 +1,2 @@
 # ProjetosPessoais
-Personal Projects
+Projetos para o estudo da linguagem Java
